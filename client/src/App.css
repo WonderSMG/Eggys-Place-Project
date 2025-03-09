@@ -28,3 +28,7 @@ body {
  .product-session{
     @apply carousel-item flex flex-col text-center
  }
+
+ .productSession-img{
+    @apply h-[115px]
+ }

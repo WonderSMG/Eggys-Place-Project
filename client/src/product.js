@@ -1,4 +1,6 @@
-[
+ export const burgers = 
+ 
+ [
     {
       _id: 1,
       image: "https://res.cloudinary.com/dwkpeu5ra/image/upload/v1741087332/burger-img-1_xwvwpo.svg",
